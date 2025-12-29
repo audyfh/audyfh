@@ -17,43 +17,27 @@ Comfortable working across mobile and web to deliver functional, user-focused pr
 ## 🛠 Tech Stack
 
 ### Mobile & Web
-![Kotlin](https://img.shields.io/badge/Kotlin-000?logo=kotlin)
-![Java](https://img.shields.io/badge/Java-000?logo=openjdk)
-![Flutter](https://img.shields.io/badge/Flutter-000?logo=flutter)
-![Dart](https://img.shields.io/badge/Dart-000?logo=dart)
-![React](https://img.shields.io/badge/React-000?logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript)
+<img src="https://skillicons.dev/icons?i=kotlin,java,flutter,dart,react,nextjs,ts,js" />
 
 ### Backend & Cloud
-![Firebase](https://img.shields.io/badge/Firebase-000?logo=firebase)
-![Supabase](https://img.shields.io/badge/Supabase-000?logo=supabase)
-![Laravel](https://img.shields.io/badge/Laravel-000?logo=laravel)
-![REST API](https://img.shields.io/badge/REST%20API-000)
+<img src="https://skillicons.dev/icons?i=firebase,supabase,laravel" />
 
 ### AI & Machine Learning
-![Python](https://img.shields.io/badge/Python-000?logo=python)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-000?logo=google)
-![Gemini](https://img.shields.io/badge/Gemini%20API-000?logo=google)
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
 
 ### UI & Styling
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-000?logo=tailwindcss)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-000?logo=bootstrap)
-![Figma](https://img.shields.io/badge/Figma-000?logo=figma)
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,figma" />
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-000?logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000?logo=github)
-![Postman](https://img.shields.io/badge/Postman-000?logo=postman)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-000?logo=androidstudio)
-![VS Code](https://img.shields.io/badge/VS%20Code-000?logo=visualstudiocode)
+<img src="https://skillicons.dev/icons?i=git,github,postman,androidstudio,vscode" />
+
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=audyfh&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=audyfh&layout=compact&theme=tokyonight)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=audyfh&theme=tokyo-night)
+![Top Languages](https://audyfh-readme.vercel.app
+/api/top-langs/?username=audyfh&layout=compact&theme=tokyonight)
 
 ---
 
